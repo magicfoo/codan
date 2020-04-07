@@ -1,5 +1,5 @@
 # Codan the Barbarian
-A code analyzer providing the axe you need to cut fat in large and/or challenging codebases.
+A code analyzer providing the axe you need to cut out the fat of large and/or challenging codebases.
 
 ## Requirements
 - Python 3.8
