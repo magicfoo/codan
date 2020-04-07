@@ -1,11 +1,12 @@
 # codan
-Source code analysis based over Clang
+Source code analysis for large codebase maintenance.
 
 ## Requirements
 - Python 3.8
 - Windows OS
 - Correct C++ project (Clang is less permissive than MSVC C++ compiler)
 - Little knowledge on lib-Clang API and compilation process in general
+- libClang for Windows (my build included. You can try another revision)
 
 ## How to use?
 1. List all the options of the tool
