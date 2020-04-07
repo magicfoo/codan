@@ -1,5 +1,5 @@
-# codan
-Source code analysis for large codebase maintenance.
+# Codan the Barbarian
+A code analyzer providing the haxe you need to cut fat in large and/or challenging codebases.
 
 ## Requirements
 - Python 3.8
